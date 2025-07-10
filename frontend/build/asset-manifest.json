@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mytube/static/js/main.e46adec0.js",
+    "index.html": "/mytube/index.html",
+    "main.e46adec0.js.map": "/mytube/static/js/main.e46adec0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e46adec0.js"
+  ]
+}
